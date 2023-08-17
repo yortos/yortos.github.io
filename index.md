@@ -50,7 +50,7 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <p><img width="332" alt="headshot 2021" src="https://github.com/yortos/yortos.github.io/blob/main/portrait.jpeg" /></p>
+      <p><img width="332" alt="headshot 2021" src="./docs/assets/portrait.jpeg" /></p>
 
 <p>I’m a freelance analytics engineer with 9 years of experience across data roles and at companies ranging in size from early-stage startups to public companies.</p>
 
