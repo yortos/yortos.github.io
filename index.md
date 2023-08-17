@@ -1,108 +1,40 @@
-
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Yorgos Askalidis | Data Science Consultant</title>
-<meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="Yorgos Askalidis" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Data Science Consultant" />
-<meta property="og:description" content="Data Science Consultant" />
-<link rel="canonical" href="https://www.yorgosaskalidis.com/" />
-<meta property="og:url" content="https://www.yorgosaskalidis.com/" />
-<meta property="og:site_name" content="Yorgos Askalidis" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Yorgos Askalidis" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Data Science Consultant","headline":"Yorgos Askalidis","name":"Yorgos Askalidis","url":"https://www.yorgosaskalidis.com/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=1d7423797cb97c10e7153cb5debd786e446ee68b">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
+<img width="332" alt="headshot 2021" src="./docs/assets/portrait.jpeg">
 
 
+I help businesses through three main professional services: analytics engineering, technical blogging, and go-to-market strategy.
 
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+## Analytics engineering
+I select and implement analytics infrastructure to make data-informed decision making as easy as possible. I have particular expertise in Looker and dbt, but am also official partners with tools like Snowflake, BigQuery, Fivetran, and Hex.
 
-<!-- end custom head snippets -->
+Selected past work:
+* Migrated data team's workflow from Airflow to dbt and Looker, significantly improving developer efficiency and reporting consistency
+* Implemented end-to-end analytics platform of Looker, Snowflake, Fivetran, dbt, and Hightouch, enabling a data team of one to comfortably manage dozens of complex external reporting requirements
+* Standardized business and product metrics such as loan volume and missed calls, providing a trusted analytics platform for >500 weekly active users
 
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+Companies: Spotify, Better, Current, Findigs, Seatgeek, obe Fitness, Clearcover
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">Yorgos Askalidis</h1>
-      <h2 class="project-tagline">Data Science Consultant</h2>
-      
-      
-    </header>
+## Technical blogging
+I contribute to businesses' public blogs to help them establish credibility, especially among other data professionals.
 
-    <main id="content" class="main-content" role="main">
-      <p><img width="332" alt="headshot 2021" src="./docs/assets/portrait.jpeg" /></p>
+Selected writing:
+* [How to fix your LookML project](https://www.spectacles.dev/post/fix-your-lookml-project-structure)
+* [PDTs vs. dbt in 2022](https://www.spectacles.dev/post/looker-pdts-vs-dbt-models-2022)
+* [Different ways to diff](https://www.datafold.com/blog/different-ways-to-diff-data?exp_id=2)
 
-<p>I’m a freelance analytics engineer with 9 years of experience across data roles and at companies ranging in size from early-stage startups to public companies.</p>
+Companies: Spectacles, Datafold, Water & Music
 
-<p>I help businesses through three main professional services: analytics engineering, technical blogging, and go-to-market strategy.</p>
+## Go-to-market strategy
+I advise startups on their go-to-market strategy with an emphasis on content strategy (e.g. blogs, podcasts, influencer marketing). In addition to my data background, I have a strong user and market research background that enables me to take a qualitative and quantitative hybrid approach to identifying new market oppotunities.
 
-<h2 id="analytics-engineering">Analytics engineering</h2>
-<p>I select and implement analytics infrastructure to make data-informed decision making as easy as possible. I have particular expertise in Looker and dbt, but am also official partners with tools like Snowflake, BigQuery, Fivetran, and Hex.</p>
+Companies: dbt, Deep Channel, Supergrain
 
-<p>Selected past work:</p>
-<ul>
-  <li>Migrated data team’s workflow from Airflow to dbt and Looker, significantly improving developer efficiency and reporting consistency</li>
-  <li>Implemented end-to-end analytics platform of Looker, Snowflake, Fivetran, dbt, and Hightouch, enabling a data team of one to comfortably manage dozens of complex external reporting requirements</li>
-  <li>Standardized business and product metrics such as loan volume and missed calls, providing a trusted analytics platform for &gt;500 weekly active users</li>
-</ul>
+## Community work
+I'm actively involved in the greater data and analytics community as a way to keep up to date with the latest trends and maintain a strong network.
 
-<p>Companies: Spotify, Better, Current, Findigs, Seatgeek, obe Fitness, Clearcover</p>
+Selected community work:
+* dbt Coalesce 2020 talk: [Kiro dreams of data](https://www.getdbt.com/coalesce-2020/kiro-dreams-of-data/)
+* Analytics Engineering Roundup feature: [Explaining conversion rates](https://roundup.getdbt.com/p/data-career-ladders-explaining-conversion-rates-ray-spotify-s-ml-infra-dsr-213-220479)
+* dbt Meetup talk: [Predicting customer conversions](https://www.youtube.com/watch?v=BF7HH8JDUS0)
 
-<h2 id="technical-blogging">Technical blogging</h2>
-<p>I contribute to businesses’ public blogs to help them establish credibility, especially among other data professionals.</p>
-
-<p>Selected writing:</p>
-<ul>
-  <li><a href="https://www.spectacles.dev/post/fix-your-lookml-project-structure">How to fix your LookML project</a></li>
-  <li><a href="https://www.spectacles.dev/post/looker-pdts-vs-dbt-models-2022">PDTs vs. dbt in 2022</a></li>
-  <li><a href="https://www.datafold.com/blog/different-ways-to-diff-data?exp_id=2">Different ways to diff</a></li>
-</ul>
-
-<p>Companies: Spectacles, Datafold, Water &amp; Music</p>
-
-<h2 id="go-to-market-strategy">Go-to-market strategy</h2>
-<p>I advise startups on their go-to-market strategy with an emphasis on content strategy (e.g. blogs, podcasts, influencer marketing). In addition to my data background, I have a strong user and market research background that enables me to take a qualitative and quantitative hybrid approach to identifying new market oppotunities.</p>
-
-<p>Companies: dbt, Deep Channel, Supergrain</p>
-
-<h2 id="community-work">Community work</h2>
-<p>I’m actively involved in the greater data and analytics community as a way to keep up to date with the latest trends and maintain a strong network.</p>
-
-<p>Selected community work:</p>
-<ul>
-  <li>dbt Coalesce 2020 talk: <a href="https://www.getdbt.com/coalesce-2020/kiro-dreams-of-data/">Kiro dreams of data</a></li>
-  <li>Analytics Engineering Roundup feature: <a href="https://roundup.getdbt.com/p/data-career-ladders-explaining-conversion-rates-ray-spotify-s-ml-infra-dsr-213-220479">Explaining conversion rates</a></li>
-  <li>dbt Meetup talk: <a href="https://www.youtube.com/watch?v=BF7HH8JDUS0">Predicting customer conversions</a></li>
-</ul>
-
-<h2 id="contact">Contact</h2>
-<p>If you’re looking for analytics engineering, technical blogging, or go-to-market contract work, send an email to kenny@kndata.co and we can connect!</p>
-
-
-      <footer class="site-footer">
-        
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
-      </footer>
-    </main>
-  </body>
-</html>
+## Contact
+If you're looking for analytics engineering, technical blogging, or go-to-market contract work, send an email to kenny@kndata.co and we can connect!
