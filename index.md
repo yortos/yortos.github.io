@@ -1,7 +1,19 @@
 <img width="332" alt="headshot 2021" src="./docs/assets/portrait.jpeg">
 
 
-I help businesses through three main professional services: analytics engineering, technical blogging, and go-to-market strategy.
+The adaptability of a flexible partner, combined with the capabilities of an in-house data science and BizOps expert.
+I specialize in assisting businesses in establishing robust data infrastructure, creating easily understandable KPIs to monitor success, and leveraging data insights to inform high-level decision-making and strategic direction.
+
+## Quick Bio
+* I got my BSc in Mathematics from the University of Athens, Greece, and my PhD in Computer Science from Northwestern Univeristy in Evanston, IL.
+* My PhD thesis studied the dynamics of onlinre review platforms such as Amazon and Yelp, and included extensive mathematical modeling work as well as real-world experiment and large data analysis.
+* I worked two years with the Spotify Notifications, where I partnered with User Research to holistically understand how Spotify can best serve its users with timely notiifcations.
+* At Spotify, I also spent one year within the Finance team, where I helped produce the future user growth forecast that informed external shareholder guidance. I gave a talk about this work at at the [Rev2 conference](https://www.youtube.com/watch?v=tkmWXM0egqg&t=37s) in NYC.
+* At Instagram, I spent three years with the Instagram Web team, helping supercharge user growth by defining and executing the stragey which included the development and shipment of features such as Messaging and Post Creation on Desktop. I wrote a blog post about how we [launched Messaging on Desktop](https://about.instagram.com/blog/engineering/launching-instagram-messaging-on-desktop).
+
+
+
+
 
 ## Analytics engineering
 I select and implement analytics infrastructure to make data-informed decision making as easy as possible. I have particular expertise in Looker and dbt, but am also official partners with tools like Snowflake, BigQuery, Fivetran, and Hex.
