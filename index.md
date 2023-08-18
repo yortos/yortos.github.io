@@ -1,9 +1,14 @@
-<img width="332" alt="headshot 2021" src="./docs/assets/portrait.jpeg">
-
+<p align="center">
+<img width="332" alt="headshot 2021" src="./docs/assets/portrait.jpeg" align='center'>
+</p>
 
 _The adaptability of a flexible partner, combined with the capabilities of an in-house data science and BizOps expert._
 
 I specialize in assisting businesses in establishing robust data infrastructure, creating easily understandable KPIs to monitor success, and leveraging data insights to inform high-level decision-making and strategic direction.
+
+## Portfolio Highlights
+
+
 
 ## Academic and Professional Overview
 I hold a BSc in Mathematics from the University of Athens, Greece, and a PhD in Computer Science from Northwestern University, Evanston, IL. My PhD research focused on the [dynamics of online review platforms](https://www.proquest.com/openview/852c4109961853cc539e34470217a915/1?pq-origsite=gscholar&cbl=18750) (such as Amazon, Yelp and the Apple AppStore), blending mathematical modeling and data analysis.
