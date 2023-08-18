@@ -2,14 +2,17 @@
 
 
 The adaptability of a flexible partner, combined with the capabilities of an in-house data science and BizOps expert.
+
 I specialize in assisting businesses in establishing robust data infrastructure, creating easily understandable KPIs to monitor success, and leveraging data insights to inform high-level decision-making and strategic direction.
 
-## Quick Bio
-* I got my BSc in Mathematics from the University of Athens, Greece, and my PhD in Computer Science from Northwestern Univeristy in Evanston, IL.
-* My PhD thesis studied the dynamics of onlinre review platforms such as Amazon and Yelp, and included extensive mathematical modeling work as well as real-world experiment and large data analysis.
-* I worked two years with the Spotify Notifications, where I partnered with User Research to holistically understand how Spotify can best serve its users with timely notiifcations.
-* At Spotify, I also spent one year within the Finance team, where I helped produce the future user growth forecast that informed external shareholder guidance. I gave a talk about this work at at the [Rev2 conference](https://www.youtube.com/watch?v=tkmWXM0egqg&t=37s) in NYC.
-* At Instagram, I spent three years with the Instagram Web team, helping supercharge user growth by defining and executing the stragey which included the development and shipment of features such as Messaging and Post Creation on Desktop. I wrote a blog post about how we [launched Messaging on Desktop](https://about.instagram.com/blog/engineering/launching-instagram-messaging-on-desktop).
+## Academic and Professional Overview
+I hold a BSc in Mathematics from the University of Athens, Greece, and a PhD in Computer Science from Northwestern University, Evanston, IL. My PhD research focused on the dynamics of online review platforms (such as Amazon, Yelp and the Apple AppStore), blending mathematical modeling and data analysis.
+
+I was a part of the Spotify Notifications team for two years, collaborating with User Research, Product, and Engineering to enhance user engagement through timely and valuable notifications. Additionally, I contributed for one year within the Finance team, playing a key role in developing the future user growth forecast. This forecast informed resource allocation decisions by the CFO and guided external shareholder communications. I presented this impactful work at the [Rev2 Data Science conference in NYC](youtube.com/watch?v=tkmWXM0egqg).
+
+During my three years at Instagram, I spearheaded user growth by driving the redesign of the Web interface, and strategically launching features like Messaging and Post Creation on Desktop. I wrote a blog post about [Launching Messaging on Desktop](https://engineering.fb.com/2022/07/26/web/launching-instagram-messaging-on-desktop/)
+
+My academic background and industry expertise converge to offer strategic insights and actionable solutions. I'm eager to explore how I can elevate your business.
 
 
 
