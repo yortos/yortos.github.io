@@ -33,7 +33,6 @@ I thoroughly enjoy creating content about fun projects I've undertaken during my
 
     * [How to get more and higher ratings for your products? Just ask.](https://medium.com/@yaskalidis/how-to-get-more-and-higher-ratings-for-your-products-just-ask-6df29bd25e4c)
 
-<p>
 
 * [How and When People use the Public Library](https://towardsdatascience.com/how-and-when-people-use-the-public-library-1b102f58fd8a): Utilizing an extensive dataset of checkouts from the [Seattle Public Library](https://www.spl.org/), I explored patterns across different days of the week and months of the year. Additionally, I delved into the broader, long-term trends spanning multiple years.
 
