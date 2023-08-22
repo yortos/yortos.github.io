@@ -5,6 +5,12 @@
 
 I specialize in assisting businesses in establishing robust data infrastructure, creating easily understandable KPIs to monitor success, and leveraging data insights to inform high-level decision-making and strategic direction.
 
+# Table of Contents
+1. [Portfolio Highlights](##portfolio-highlights)
+2. [Academic and Professional Overview](#academic-and-professional-overview)
+3. [Writing and Community Involvement](##writing-and-community-involvement)
+<!-- 4. [Contact Me](##contact) -->
+
 
 ## Portfolio Highlights
 I provide businesses with three core professional services: utilizing data to shape strategic choices and acquire customers, overseeing and ensuring the quality of services procured from external vendors, and crafting resilient data infrastructures capable of scaling alongside business growth.
