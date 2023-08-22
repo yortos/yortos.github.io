@@ -32,7 +32,7 @@ _Have an expert in your corner to manage, test and configure the solutions you a
 * For a Nashville-based Porta Potty rental company, I provided insights and guidance throughout the development of their data architecture. This included the inception of the entity relationship diagram (ERD), the creation of intermediate tables, and their eventual utilization for dashboarding, reporting, and analytical needs.
 
 ## Academic and Professional Overview
-My undergrad is in Mathematics at the University of Athens, Greece, and  I hold a **PhD in Computer Science from Northwestern University**, Evanston, IL.My PhD research focused on the [dynamics of online review platforms](https://www.proquest.com/openview/852c4109961853cc539e34470217a915/1?pq-origsite=gscholar&cbl=18750) (such as Amazon, Yelp and the Apple AppStore), blending mathematical modeling with real-world experiments and large scale data analysis. 
+My undergrad is in Mathematics from the University of Athens, Greece, and  I hold a **PhD in Computer Science from Northwestern University**, Evanston, IL. My PhD research focused on the [dynamics of online review platforms](https://www.proquest.com/openview/852c4109961853cc539e34470217a915/1?pq-origsite=gscholar&cbl=18750) (such as Amazon, Yelp and the Apple AppStore), blending mathematical modeling with real-world experiments and large scale data analysis. 
 
 My work has been featured in a variety of outlets, including [The New York Times](https://www.nytimes.com/2019/11/28/business/online-reviews-fake.html).
 
