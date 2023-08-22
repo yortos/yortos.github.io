@@ -32,8 +32,10 @@ _Have an expert in your corner to manage, test and configure the solutions you a
 * For a Nashville-based Porta Potty rental company, I provided insights and guidance throughout the development of their data architecture. This included the inception of the entity relationship diagram (ERD), the creation of intermediate tables, and their eventual utilization for dashboarding, reporting, and analytical needs.
 
 ## Academic and Professional Overview
-I hold a **PhD in Computer Science from Northwestern University**, Evanston, IL.
- My PhD research focused on the [dynamics of online review platforms](https://www.proquest.com/openview/852c4109961853cc539e34470217a915/1?pq-origsite=gscholar&cbl=18750) (such as Amazon, Yelp and the Apple AppStore), blending mathematical modeling with real-world experiments and large scale data analysis. Before that, I did my undergrad in Mathematics at the University of Athens, Greece.
+My undergrad is in Mathematics at the University of Athens, Greece, and  I hold a **PhD in Computer Science from Northwestern University**, Evanston, IL.My PhD research focused on the [dynamics of online review platforms](https://www.proquest.com/openview/852c4109961853cc539e34470217a915/1?pq-origsite=gscholar&cbl=18750) (such as Amazon, Yelp and the Apple AppStore), blending mathematical modeling with real-world experiments and large scale data analysis. 
+
+My work has been featured in a variety of outlets, including [The New York Times](https://www.nytimes.com/2019/11/28/business/online-reviews-fake.html).
+
 
 <p align="center">
 <img width="332" alt="headshot 2021" src="./docs/assets/logos.png" align='center'>
@@ -41,7 +43,7 @@ I hold a **PhD in Computer Science from Northwestern University**, Evanston, IL.
 
 After grad school, I was a part of the **Spotify Notifications team for two years, collaborating with User Research, Product, and Engineering to enhance user engagement through timely and valuable notifications**. After that, I was part of Spotify's Finance team for a year, playing a key role in **developing the user growth forecast**. This forecast informed resource allocation decisions by the CFO as well as the quarterly shareholder guidance. I presented the math and engineering behind this work at the [Rev2 Data Science conference in NYC](youtube.com/watch?v=tkmWXM0egqg).
 
-During my three years at **Instagram, I spearheaded user growth by driving the redesign of the [Web interface](https://www.instagram.com/), and strategically launching features like Messaging and Post Creation on Desktop**. I wrote a blog post about the engineering and data work that went into [Launching Messaging on Desktop](https://engineering.fb.com/2022/07/26/web/launching-instagram-messaging-on-desktop/)
+During my three years at **Instagram, I spearheaded user growth by driving the redesign of the [Web interface](https://www.instagram.com/), and strategically launching features like Messaging and [Post Creation](https://techcrunch.com/2021/06/24/instagram-post-from-desktop/) on Desktop**. I wrote a blog post about the engineering and data work that went into [Launching Messaging on Desktop](https://engineering.fb.com/2022/07/26/web/launching-instagram-messaging-on-desktop/)
 
 
 My academic background and industry expertise converge to offer strategic insights and actionable solutions. I'm eager to explore how I can elevate your business.
