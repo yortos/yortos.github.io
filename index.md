@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="./docs/assets/css/tabs.css">
+
+
 <p align="center">
 <img width="332" alt="headshot 2021" src="./docs/assets/portrait.jpeg" align='center'>
 </p>
@@ -5,12 +8,10 @@
 
 
 I specialize in assisting businesses in establishing robust data infrastructure, creating easily understandable KPIs to monitor success, and leveraging data insights to inform high-level decision-making and strategic direction.
-- [Portfolio Highlights](#portfolio-highlights)
-- [Academic and Professional Overview](#academic-and-professional-overview)
-- [Writing and Community Involvement](#writing-and-community-involvement)
-<!-- 4. [Contact Me](#contact) -->
 
+{% tabs log %}
 
+{% tab log Portfolio Highlights %}
 ## Portfolio Highlights
 I provide businesses with three core professional services: utilizing data to shape strategic choices and acquire customers, overseeing and ensuring the quality of services procured from external vendors, and crafting resilient data infrastructures capable of scaling alongside business growth.
 
@@ -30,7 +31,9 @@ _Have an expert in your corner to manage, test and configure the solutions you a
 #### Building a robust data architecture from the foundation, ensuring scalability and sustained success in the long run.
 
 * For a Nashville-based Porta Potty rental company, I provided insights and guidance throughout the development of their data architecture. This included the inception of the entity relationship diagram (ERD), the creation of intermediate tables, and their eventual utilization for dashboarding, reporting, and analytical needs.
+{% endtab %}
 
+{% tab log Academic and Professional Overview %}
 ## Academic and Professional Overview
 My undergrad is in Mathematics from the University of Athens, Greece, and  I hold a **PhD in Computer Science from Northwestern University**, Evanston, IL. My PhD research focused on the [dynamics of online review platforms](https://www.proquest.com/openview/852c4109961853cc539e34470217a915/1?pq-origsite=gscholar&cbl=18750) (such as Amazon, Yelp and the Apple AppStore), blending mathematical modeling with real-world experiments and large scale data analysis. 
 
@@ -48,6 +51,10 @@ During my three years at **Instagram, I spearheaded user growth by driving the r
 
 My academic background and industry expertise converge to offer strategic insights and actionable solutions. I'm eager to explore how I can elevate your business.
 
+{% endtab %}
+
+{% tab log Writing and Community Involvement %}
+<!-- 4. [Contact Me](#contact) -->
 
 
 ## Writing and Community Involvement
@@ -77,3 +84,9 @@ I cover a range of topics, from notable achievements through cross-functional co
 * [How and When People use the Public Library](https://towardsdatascience.com/how-and-when-people-use-the-public-library-1b102f58fd8a): Utilizing an extensive, open, dataset of checkouts from the [Seattle Public Library](https://www.spl.org/), I explored patterns across different days of the week and months of the year. Additionally, I delved into the broader, long-term trends spanning multiple years.
 
 * [Where can you find the best Cofffee](https://medium.com/@yaskalidis/the-data-speak-ethiopia-has-the-best-coffee-91f88ed37e84): Exploring an open-source dataset containing expert coffee cupping ratings, I sought to find what country produces the best coffee in the world - Ethiopia, Uganda and Kenya emerged as top ranked.
+
+{% endtab %}
+
+{% endtabs %}
+
+<script src="./docs/assets/js/tabs.js"></script>
