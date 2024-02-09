@@ -1,10 +1,9 @@
-# remote_theme: pages-themes/cayman@v0.2.0
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 title: Yorgos Askalidis
 description: Experienced Data Science Specialist and Consultant. Spotify, formerly at Instagram
 google_analytics: G-R5TEV6PXXZ
 # repository: yortos/yortos.github.io
-url: www.yorgosaskalidis.com
+# url: www.yorgosaskalidis.com
 plugins:
   - jekyll-tabs
   - jekyll-remote-theme
