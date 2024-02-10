@@ -36,6 +36,10 @@ jobs:
       - name: Install dependencies
         run: bundle install --jobs 4
 
+      - name: Set PAGES_REPO_NWO
+        run: echo "PAGES_REPO_NWO=${{ github.repository }}" >> $GITHUB_ENV
+
+
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
